@@ -1,0 +1,59 @@
+,Kota,Temperature,Feels Like,Wind Speed,Wind Direction,Humidity,Dew Point,Visibility,Probabilty of Rain,Amount of Rain
+0,Jambi,27 °C,29 °C,3 km/h,NNE↑,70%,21 °C,13 km,0%,-
+1,Bogor,24 °C,24 °C,1 km/h,NNE↑,83%,21 °C,10 km,16%,0.3  mm
+2,Manokwari,24 °C,24 °C,4 km/h,S↑,91%,23 °C,7 km,36%,1.9  mm
+3,Ambon,26 °C,27 °C,8 km/h,E↑,81%,22 °C,9 km,2%,0.3  mm
+4,Kendari,26 °C,27 °C,6 km/h,ENE↑,83%,23 °C,11 km,0%,-
+5,Pontianak,24 °C,24 °C,4 km/h,S↑,89%,22 °C,12 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Pontianak time - Weather by CustomWeather, © 2024"
+6,Balikpapan,27 °C,29 °C,7 km/h,SSE↑,84%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Balikpapan time - Weather by CustomWeather, © 2024"
+7,Ketapang,28 °C,31 °C,18 km/h,SSE↑,79%,24 °C,14 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Ketapang time - Weather by CustomWeather, © 2024"
+8,Raba,25 °C,25 °C,2 km/h,E↑,90%,23 °C,14 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Raba time - Weather by CustomWeather, © 2024"
+9,Banda Aceh,26 °C,29 °C,26 km/h,SSW↑,84%,24 °C,10 km,1%,-
+10,Kudus,25 °C,26 °C,9 km/h,SSE↑,81%,22 °C,12 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Kudus time - Weather by CustomWeather, © 2024"
+11,Rantepao,26 °C,28 °C,4 km/h,W↑,87%,24 °C,7 km,3%,"* Updated Thursday, 19 September 2024 21:03:06 Rantepao time - Weather by CustomWeather, © 2024"
+12,Bandar Lampung,24 °C,24 °C,12 km/h,S↑,80%,20 °C,12 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Bandar Lampung time - Weather by CustomWeather, © 2024"
+13,Kupang,24 °C,25 °C,4 km/h,E↑,83%,21 °C,6 km,27%,4.1  mm
+14,Samarinda,26 °C,28 °C,4 km/h,SE↑,86%,23 °C,9 km,0%,-
+15,Bandung,20 °C,20 °C,1 km/h,E↑,87%,17 °C,13 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Bandung time - Weather by CustomWeather, © 2024"
+16,Makassar,29 °C,33 °C,5 km/h,S↑,74%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Makassar time - Weather by CustomWeather, © 2024"
+17,Semarang,25 °C,26 °C,2 km/h,ESE↑,82%,22 °C,15 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Semarang time - Weather by CustomWeather, © 2024"
+18,Banjarmasin,26 °C,27 °C,10 km/h,S↑,79%,22 °C,14 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Banjarmasin time - Weather by CustomWeather, © 2024"
+19,Malang,20 °C,20 °C,4 km/h,S↑,94%,19 °C,9 km,1%,"* Updated Thursday, 19 September 2024 20:03:06 Malang time - Weather by CustomWeather, © 2024"
+20,Seminyak,26 °C,28 °C,7 km/h,S↑,91%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Seminyak time - Weather by CustomWeather, © 2024"
+21,Batam,28 °C,33 °C,11 km/h,ESE↑,80%,24 °C,10 km,1%,-
+22,Manado,27 °C,30 °C,8 km/h,ESE↑,83%,24 °C,8 km,18%,1.5  mm
+23,Serang,24 °C,25 °C,9 km/h,SSW↑,82%,21 °C,11 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Serang time - Weather by CustomWeather, © 2024"
+24,Bekasi,26 °C,28 °C,6 km/h,N↑,75%,22 °C,11 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Bekasi time - Weather by CustomWeather, © 2024"
+25,Manokwari,24 °C,24 °C,4 km/h,S↑,91%,23 °C,7 km,36%,1.9  mm
+26,Singaraja,26 °C,29 °C,7 km/h,E↑,82%,23 °C,11 km,1%,"* Updated Thursday, 19 September 2024 21:03:06 Singaraja time - Weather by CustomWeather, © 2024"
+27,Bengkulu,26 °C,27 °C,9 km/h,SE↑,79%,22 °C,10 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Bengkulu time - Weather by CustomWeather, © 2024"
+28,Mataram,26 °C,28 °C,6 km/h,SSE↑,83%,23 °C,11 km,26%,0.6  mm
+29,Sofifi,25 °C,26 °C,9 km/h,ENE↑,88%,23 °C,6 km,34%,3.1  mm
+30,Bogor,24 °C,24 °C,1 km/h,NNE↑,83%,21 °C,10 km,16%,0.3  mm
+31,Medan,27 °C,30 °C,3 km/h,W↑,88%,25 °C,7 km,23%,3.3  mm
+32,Surabaya,27 °C,29 °C,9 km/h,E↑,77%,22 °C,13 km,0%,-
+33,Bukittinggi,26 °C,28 °C,4 km/h,SE↑,84%,23 °C,10 km,0%,-
+34,Nusa Lembongan,25 °C,27 °C,6 km/h,S↑,92%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Nusa Lembongan time - Weather by CustomWeather, © 2024"
+35,Surakarta,24 °C,24 °C,20 km/h,SSW↑,82%,20 °C,14 km,3%,"* Updated Thursday, 19 September 2024 20:03:06 Surakarta time - Weather by CustomWeather, © 2024"
+36,Cirebon,25 °C,26 °C,12 km/h,S↑,78%,21 °C,14 km,5%,"* Updated Thursday, 19 September 2024 20:03:06 Cirebon time - Weather by CustomWeather, © 2024"
+37,Nusantara,27 °C,29 °C,7 km/h,SSE↑,84%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Nusantara time - Weather by CustomWeather, © 2024"
+38,Tanjung Pinang,28 °C,33 °C,11 km/h,SE↑,81%,25 °C,10 km,25%,0.3  mm
+39,Denpasar,25 °C,27 °C,6 km/h,S↑,92%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Denpasar time - Weather by CustomWeather, © 2024"
+40,Padang,26 °C,28 °C,4 km/h,SE↑,84%,23 °C,10 km,0%,-
+41,Tasikmalaya,22 °C,21 °C,5 km/h,S↑,87%,20 °C,7 km,15%,0.4  mm
+42,Ende,26 °C,28 °C,3 km/h,NE↑,88%,24 °C,12 km,17%,0.6  mm
+43,Palembang,27 °C,29 °C,9 km/h,ESE↑,64%,20 °C,12 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Palembang time - Weather by CustomWeather, © 2024"
+44,Tegal,26 °C,27 °C,14 km/h,S↑,77%,21 °C,13 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Tegal time - Weather by CustomWeather, © 2024"
+45,Gorontalo,26 °C,29 °C,1 km/h,NNE↑,89%,25 °C,7 km,1%,"* Updated Thursday, 19 September 2024 21:03:06 Gorontalo time - Weather by CustomWeather, © 2024"
+46,Palu,27 °C,31 °C,5 km/h,SE↑,83%,24 °C,10 km,5%,-
+47,Ternate,25 °C,26 °C,9 km/h,ENE↑,88%,23 °C,6 km,34%,3.1  mm
+48,Jakarta,27 °C,29 °C,10 km/h,N↑,76%,22 °C,12 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Jakarta time - Weather by CustomWeather, © 2024"
+49,Pangkal Pinang,27 °C,29 °C,11 km/h,SE↑,80%,23 °C,11 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Pangkal Pinang time - Weather by CustomWeather, © 2024"
+50,Ubud,25 °C,27 °C,6 km/h,S↑,92%,24 °C,11 km,0%,"* Updated Thursday, 19 September 2024 21:03:06 Ubud time - Weather by CustomWeather, © 2024"
+51,Jambi,27 °C,29 °C,3 km/h,NNE↑,70%,21 °C,13 km,0%,-
+52,Pekalongan,25 °C,26 °C,5 km/h,S↑,79%,21 °C,15 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Pekalongan time - Weather by CustomWeather, © 2024"
+53,Yogyakarta,22 °C,21 °C,4 km/h,SSW↑,90%,21 °C,10 km,0%,"* Updated Thursday, 19 September 2024 20:03:06 Yogyakarta time - Weather by CustomWeather, © 2024"
+54,Jayapura,26 °C,28 °C,9 km/h,SSE↑,91%,24 °C,7 km,2%,-
+55,Pekanbaru,29 °C,32 °C,3 km/h,ESE↑,66%,22 °C,9 km,0%,0.1  mm
+56,Kediri,23 °C,23 °C,17 km/h,S↑,86%,21 °C,12 km,2%,"* Updated Thursday, 19 September 2024 20:03:06 Kediri time - Weather by CustomWeather, © 2024"
+57,Pematangsiantar,23 °C,23 °C,6 km/h,WSW↑,85%,20 °C,12 km,16%,1.9  mm
